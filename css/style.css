@@ -1,0 +1,142 @@
+#list1 {
+    color: #000;
+    font-size: 72px;
+    text-transform: uppercase;
+    margin-left: 608px;
+}
+
+#list2 {
+    color: #FF8000;
+    font-size: 24px;
+    text-align: center;
+    width: 1220px;
+    height: 64px;
+    margin-top: 53px;
+    margin-left: 294px;
+}
+
+#list3 {
+    width: 696px;
+    height: 415px;
+    margin-left: 67px;
+}
+
+#blok1 {
+    color: #D9AE00;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+#blok2 {
+    color: #6D81B4;
+    font-size: 24px;
+}
+
+#blok3 {
+    width: 100%;
+    height: 415px;
+    margin-top: 30px;
+}
+
+#list4 {
+    margin-top: 400px;
+    margin-left: 67px;
+    border-top: 2px solid #000;
+    border-left: 2px solid #000;
+    border-bottom: 3px solid #ff0000;
+    border-right: 3px solid #ff0000;
+    background-color: #FFCEBE;
+    width: 1007px;
+    padding: 64px;
+}
+
+#blok4 {
+    color: #F44E50;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 64px;
+}
+
+#blok5 {
+    color: #8B2B2C;
+    font-size: 20px;
+    text-align: center;
+    width: 681px;
+    height: 72px;
+    margin-left: 160px;
+
+}
+
+#blok6 {
+    width: 879px;
+    height: 415px;
+    padding: 64px;
+}
+
+#list5 {
+    width: 696px;
+    height: 48px;
+    margin-left: 74px;
+    margin-top: 100px;
+}
+
+#blok7 {
+    color: #4716E4;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: right;
+}
+
+#list6 {
+    background-color: #FFC1E3;
+    display: flex;
+    padding: 24px;
+    width: 696px;
+    height: 222px;
+    border: 3px solid #FF5DA3;
+    margin-left: 74px;
+    margin-top: 24px;
+}
+
+#blok8 {
+    flex: 100%;
+    color: #616161;
+    font-size: 24px;
+    text-align: right;
+}
+
+#list7 {
+    width: 696px;
+    height: 24px;
+    margin-left: 74px;
+    margin-top: 30px;
+}
+
+#blok9 {
+    flex: 100%;
+    color: #414651;
+    font-size: 24px;
+}
+
+#list8 {
+    margin-left: 74px;
+    margin-top: 16px;
+    width: 668px;
+    height: 72px;
+}
+
+#blok10 {
+    color: #C27512;
+    font-size: 16px;
+}
+
+#list9 {
+    margin-left: 74px;
+    margin-top: 150px;
+}
+
+#blok11 {
+    width: 696px;
+    height: 415px;
+}
