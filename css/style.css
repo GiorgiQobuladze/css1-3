@@ -90,7 +90,6 @@
 
 #list6 {
     background-color: #FFC1E3;
-    display: flex;
     padding: 24px;
     width: 696px;
     height: 222px;
@@ -100,7 +99,6 @@
 }
 
 #blok8 {
-    flex: 100%;
     color: #616161;
     font-size: 24px;
     text-align: right;
@@ -114,8 +112,7 @@
 }
 
 #blok9 {
-    flex: 100%;
-    color: #414651;
+    color:  #414651;
     font-size: 24px;
 }
 
